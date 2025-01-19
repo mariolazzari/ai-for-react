@@ -1,6 +1,8 @@
 import Chat from "@/components/chat";
 import Completion from "@/components/completion";
 import HookAction from "@/components/hook-action";
+import Objects from "@/components/objects";
+import StreamClient from "@/components/stream-client";
 
 function Home() {
   return (
@@ -9,6 +11,8 @@ function Home() {
       <Completion />
       <Chat />
       <HookAction />
+      <Objects />
+      <StreamClient />
     </main>
   );
 }
