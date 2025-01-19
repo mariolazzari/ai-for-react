@@ -6,6 +6,8 @@
 [Playground](https://sdk.vercel.ai/playground)
 [Templates](https://vercel.com/templates)
 [Open AI](https://platform.openai.com/docs/overview)
+[V0](https://v0.dev)
+[shadcn](https://ui.shadcn.com/)
 
 ## Packages
 
